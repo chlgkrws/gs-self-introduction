@@ -1,1 +1,1 @@
-# gs-self-introduction
+# HTML과 CSS를 이용한 간단한 자기소개서 템플릿입니다
